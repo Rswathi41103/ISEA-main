@@ -1,0 +1,13 @@
+*{
+  margin:0 ;
+  padding: 0;
+  background-color: #F8F8F8;
+}
+.heading{
+  background-color: #3498DB;
+  color: white;
+  padding: 30px 100px;
+}
+.container{
+  margin: 10px 80px;
+}
